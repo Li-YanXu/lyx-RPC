@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lyx-common/lyx-common.iml" filepath="$PROJECT_DIR$/lyx-common/lyx-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyx-consumer/lyx-consumer.iml" filepath="$PROJECT_DIR$/lyx-consumer/lyx-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyx-provider/lyx-provider.iml" filepath="$PROJECT_DIR$/lyx-provider/lyx-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyx-rpc.iml" filepath="$PROJECT_DIR$/lyx-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyx-rpc-core/lyx-rpc-core.iml" filepath="$PROJECT_DIR$/lyx-rpc-core/lyx-rpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyx-rpc-easy/lyx-rpc-easy.iml" filepath="$PROJECT_DIR$/lyx-rpc-easy/lyx-rpc-easy.iml" />
+    </modules>
+  </component>
+</project>

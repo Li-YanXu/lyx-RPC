@@ -1,0 +1,3 @@
+jdk=com.lyx.rpc.core.serializer.JdkSerializer
+hessian=com.lyx.rpc.core.serializer.HessianSerializer
+
