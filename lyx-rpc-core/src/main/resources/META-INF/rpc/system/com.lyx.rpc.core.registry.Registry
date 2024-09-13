@@ -1,2 +1,0 @@
-etcd=com.lyx.rpc.core.registry.EtcdRegistry
-zookeeper=com.lyx.rpc.core.registry.ZooKeeperRegistry

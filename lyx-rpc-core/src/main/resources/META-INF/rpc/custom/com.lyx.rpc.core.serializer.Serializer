@@ -1,2 +1,0 @@
-json=com.lyx.rpc.core.serializer.JsonSerializer
-kryo=com.lyx.rpc.core.serializer.KryoSerializer
